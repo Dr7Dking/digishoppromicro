@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "digishoppromicro",
+    "packageName": "com.prospero.digishoppro.micro",
+    "packageFolder": "com/prospero/digishoppro/micro",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.0",
+    "jwtSecretKey": "YTE3NGU0NDE1NWI5NzY3NGRjYzg0OWE4ZDAxNzNkYzdiODliY2MwNzYwMDI0MzVlODE2ZDZjZGRiMjE1YjJjNTZlNmI0NWMwOTljYTJkYjdjNDY3OGZhNDYzNTcwM2ZlMmQ3ZTVkMmIyNDM1NGU5NDZjNjViMzI0YzNmZTExMzc=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "Dr7Dking",
+  "repository-name": "digishoppromicro"
+}
